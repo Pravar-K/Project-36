@@ -1,0 +1,1 @@
+var gamestate=0;
